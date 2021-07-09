@@ -1,4 +1,4 @@
-# Code-Editor with React
+# Code Editor with React
 ## NPM packages <br>
 ### `react-codemirror`
 
