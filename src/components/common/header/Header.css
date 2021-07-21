@@ -1,0 +1,26 @@
+body{
+    margin: 0;
+}
+
+.header{
+    height: 5vh;
+    width: 100%;
+    padding-top: 2px;
+    background-color: hsl(225, 5%, 50%);
+}
+
+.logo{
+    text-align: center;
+    vertical-align: middle;
+    line-height: 5vh;
+    font-family: 'Roboto', sans-serif;
+    font-size: 40px;
+    font-weight: bold;
+}
+
+a{
+    text-decoration: none;
+    color: black;
+    font-size: 15px;
+    font-weight: 100;
+}
